@@ -10,7 +10,7 @@ body{
 }
 .importanttext{
 	color:limegreen;
-	text-decoration:underline;
+	font-weight:bold;
 }
 .privacytitlebg{
 	width:auto;
@@ -41,9 +41,21 @@ body{
 	margin-left:5em;
 	margin-right:5em;
 }
-.privacycontent{
-	text-indent:2em;
+.privacycontent{	
+	width:auto;
+	text-indent:1.5em;	
 	font-size:110%;
 	text-align:justify;
 	overflow:auto;
+}
+.privacysubtitle{
+	line-height:2em;
+	text-indent:0em;
+	font-size:120%;
+	font-style:italic;
+}
+.privacyfooter{
+	text-align:center;
+	text-decoration:underline;
+	font-style:italic;
 }
