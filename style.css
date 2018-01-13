@@ -3,6 +3,10 @@ body{
 }
 .mainbackground{
 	background-color:whitesmoke;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-bottom:0px;
 }
 .importanttext{
 	color:limegreen;
@@ -11,23 +15,35 @@ body{
 .privacytitlebg{
 	width:auto;
 	padding-top:20px;
+	padding-left:10px;
+	padding-right:10px;
 	background-color:black;
-	color:white;
+	color:whitesmoke;
 }
 .privacytitlecontent{
-	width:30em;	
+	width:30em;
 	padding-top:50px;
 	padding-bottom:70px;
 	text-align:center;
 }
 .privacytitle{
-	font-size:250%
+	text-align:center;
+	font-size:2.5em
 }
 .logo{
 	width:256px;
 	height:200px;
 	float:right;
 }
+.privacycontentbg{
+	width:auto;
+	margin-top:2em;
+	margin-left:5em;
+	margin-right:5em;
+}
 .privacycontent{
-	font-size:150%;
+	text-indent:2em;
+	font-size:110%;
+	text-align:justify;
+	overflow:auto;
 }
