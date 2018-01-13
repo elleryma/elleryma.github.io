@@ -2,7 +2,7 @@ body{
 	font-family:"Arial", "Helvetica", "sans-serif";
 }
 .mainbackground{
-	background-color:beige;
+	background-color:whitesmoke;
 }
 .importanttext{
 	color:limegreen;
@@ -12,7 +12,7 @@ body{
 	width:auto;
 	padding-top:20px;
 	background-color:black;
-	color:white;	
+	color:white;
 }
 .privacytitlecontent{
 	width:30em;	
